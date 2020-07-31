@@ -1,5 +1,7 @@
 If speak_to_grandma(downcase)
 return "HUH?! SPEAK UP, SONNY!"
+elsif
+elsif
 else 
   puts ""
 
