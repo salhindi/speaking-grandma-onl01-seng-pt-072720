@@ -1,4 +1,4 @@
-If speak_to_grandma = 
+If speak_to_grandma = "I LOVE YOU GRANDMA!"
 return "HUH?! SPEAK UP, SONNY!"
 elsif
 elsif
