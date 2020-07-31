@@ -1,4 +1,4 @@
-If speak_to_grandma(downcase)
+If speak_to_grandma = 
 return "HUH?! SPEAK UP, SONNY!"
 elsif
 elsif
