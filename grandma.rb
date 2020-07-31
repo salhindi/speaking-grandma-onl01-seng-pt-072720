@@ -1,6 +1,7 @@
 If speak_to_grandma(downcase)
 return "HUH?! SPEAK UP, SONNY!"
 else 
+  puts ""
 
 # Write a speak_to_grandma method.
 
