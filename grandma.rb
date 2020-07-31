@@ -1,6 +1,4 @@
-phrase = "I LOVE YOU GRANDMA!"
-
-If speak_to_grandma = phrase
+def speak_to_grandma(phrase)
 puts "I LOVE YOU TOO PUMPKIN!"
 elsif speak_to_grandma = phrase.downcase
 puts "HUH?! SPEAK UP, SONNY!"
