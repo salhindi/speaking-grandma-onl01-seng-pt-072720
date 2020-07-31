@@ -1,8 +1,10 @@
-If speak_to_grandma = "I LOVE YOU GRANDMA!"
+phrase = "I LOVE YOU GRANDMA!"
+
+If speak_to_grandma = phrase
+puts "I LOVE YOU TOO PUMPKIN!"
+elsif speak_to_grandma = phrase.downcase
 puts "HUH?! SPEAK UP, SONNY!"
-elsif speak_to_grandma = "I LOVE YOU GRANDMA!".downcase
-puts "HUH?! SPEAK UP, SONNY!"
-elsif
+elsif speak_to_grandma = 
 else 
   puts ""
 
