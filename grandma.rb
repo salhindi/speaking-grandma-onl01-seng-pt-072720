@@ -1,8 +1,4 @@
-def speak_to_grandma("I LOVE YOU GRANDMA")
-  if "I LOVE YOU GRANDMA!" = "I LOVE YOU GRANDMA!".downcase
-    puts "HUH?! SPEAK UP SONNY!"
-  end
-  
+
 
 # Write a speak_to_grandma method.
 
