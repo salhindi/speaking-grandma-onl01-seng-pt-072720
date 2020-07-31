@@ -1,5 +1,5 @@
 If speak_to_grandma = "I LOVE YOU GRANDMA!"
-return "HUH?! SPEAK UP, SONNY!"
+puts "HUH?! SPEAK UP, SONNY!"
 elsif
 elsif
 else 
