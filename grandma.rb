@@ -1,6 +1,7 @@
 If speak_to_grandma = "I LOVE YOU GRANDMA!"
 puts "HUH?! SPEAK UP, SONNY!"
-elsif speak_to_grandma = 
+elsif speak_to_grandma = "I LOVE YOU GRANDMA!".downcase
+puts "HUH?! SPEAK UP, SONNY!"
 elsif
 else 
   puts ""
