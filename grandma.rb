@@ -1,5 +1,6 @@
-If speak_to_grandma
+If speak_to_grandma(downcase)
 return "HUH?! SPEAK UP, SONNY!"
+else 
 
 # Write a speak_to_grandma method.
 
