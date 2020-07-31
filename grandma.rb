@@ -1,6 +1,6 @@
 If speak_to_grandma = "I LOVE YOU GRANDMA!"
 puts "HUH?! SPEAK UP, SONNY!"
-elsif
+elsif speak_to_grandma = 
 elsif
 else 
   puts ""
